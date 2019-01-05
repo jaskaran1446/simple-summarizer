@@ -3,4 +3,6 @@ Using a simple algorithm based on frequency of words, this project would create 
 To run, use the command
 
 
-python Summarizer.py <filename> -l <length of expected summary>
+python Summarizer.py \<filename\> -l \<length of expected summary\>
+
+The length field is optional and defaults to 4.
