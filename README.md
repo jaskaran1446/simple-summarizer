@@ -6,3 +6,6 @@ To run, use the command
 python Summarizer.py \<filename\> -l \<length of expected summary\>
 
 The length field is optional and defaults to 4.
+
+
+Sample from: https://projects.voanews.com/greenland/
